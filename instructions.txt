@@ -12,4 +12,4 @@
 
 3. place the web.config file inside src folder
 
-4. run ng build --extraWebpackConfig webpacl.partial.js
+4. run ng build --extraWebpackConfig webpack.partial.js
