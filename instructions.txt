@@ -8,7 +8,7 @@
 
 
 
-2. place webpack.partial.js file outside the src folder
+2. place webpack.partial.js file inside the project folder
 
 3. place the web.config file inside src folder
 
